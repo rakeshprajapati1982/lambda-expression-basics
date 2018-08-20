@@ -3,4 +3,4 @@ In simple term, a Lambda Expression is implementation of a Functional Interface.
 
 Read more [https://readtorakesh.blogspot.com/2018/08/lambda-expression-basics-and-syntax.html](https://readtorakesh.blogspot.com/2018/08/lambda-expression-basics-and-syntax.html)
 
-- [Read to Rakesh](https://readtorakesh.blogspot.com)
+[Read to Rakesh](https://readtorakesh.blogspot.com)
