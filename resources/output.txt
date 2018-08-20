@@ -1,8 +1,6 @@
-Greeter Lambda
-------------------
-Hi Rakesh
+# Lambda - Double the value: 10
+20
 
 
-DefaultGreeter Lambda
-------------------
-Hi Rakesh :-)
+# Anonymous Inner Class - Double the value: 10
+20
